@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente fazendo faculdade de Ciência da Computação na Universidade Federal do Vale do São Francisco.
 - 📫 Email para contato: anderson.vicente@discente.univasf.edu.br
-- 👨‍💻 Ainda iniciante em programção mas já tenho algumas experiências práticas com C, Python e Java.
+- 👨‍💻 Ainda iniciante em programação mas já tenho algumas experiências práticas com C, Python e Java.
 - ⚡ No tempo livre gosto de assistir filmes, jogar alguma coisa e ouvir música.
 ##
  <div>
