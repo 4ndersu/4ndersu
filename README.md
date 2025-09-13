@@ -17,3 +17,6 @@
   ##
  <a href="https://www.instagram.com/andersu_joestar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href = "mailto:anderson.vicente@discente.univasf.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+![Snake animation](https://github.com/4ndersu/4ndersu/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=4ndersu&repo=4ndersu&theme=react)](https://github.com/4ndersu/4ndersu)
