@@ -5,8 +5,8 @@
 - 👨‍💻 Ainda iniciante em programação mas já tenho algumas experiências práticas com C, Python e Java.
 - ⚡ No tempo livre gosto de assistir filmes, jogar alguma coisa e ouvir música.
 ##
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=4ndersu&theme=highcontrast)](https://github.com/stats-organization/github-stats-extended)
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=4ndersu&theme=highcontrast)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=4ndersu&theme=highcontrast)](https://github.com/stats-organization/github-stats-extended)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
