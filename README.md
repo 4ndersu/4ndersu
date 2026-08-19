@@ -6,8 +6,10 @@
 - ⚡ No tempo livre gosto de assistir filmes, jogar alguma coisa e ouvir música.
 ##
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4ndersu&show_icons=true&theme=tokyonight&count_private=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+</p>
+---
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
