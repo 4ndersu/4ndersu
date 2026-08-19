@@ -5,8 +5,6 @@
 - 👨‍💻 Ainda iniciante em programação mas já tenho algumas experiências práticas com C, Python e Java.
 - ⚡ No tempo livre gosto de assistir filmes, jogar alguma coisa e ouvir música.
 ##
- <div>
-  <a href="https://github.com/4ndersu">
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=4ndersu&show_icons=true&theme=tokyonight&count_private=true"/>
 
