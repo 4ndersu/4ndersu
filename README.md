@@ -17,7 +17,7 @@
   ##
  <a href="https://www.instagram.com/andersu_joestar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
    <a href = "mailto:anderson.vicente@discente.univasf.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
-    <a href="https://www.instagram.com/andersu_joestar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5"></a> 
+    <a href="https://www.instagram.com/andersu_joestar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
